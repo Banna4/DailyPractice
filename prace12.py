@@ -30,3 +30,4 @@ def starpattern(rows):
         print()
 rows = 5
 starpattern(rows)
+
